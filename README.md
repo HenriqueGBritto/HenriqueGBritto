@@ -1,7 +1,9 @@
 ### Hi there, Devs! It's me, Henrique!👋
 
-<a href="https://www.linkedin.com/in/henrique-britto-a63273142/"> </a>
-<hr>
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40em" align="center" alt="Follow Henrique Britto on LinkedIn" />](https://www.linkedin.com/in/henrique-britto/)
+
+----
+
 
 <!--
 **HenriqueGBritto/HenriqueGBritto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
