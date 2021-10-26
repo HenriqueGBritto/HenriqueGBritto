@@ -1,5 +1,8 @@
 ### Hi there, Devs! It's me, Henrique!👋
 
+<a href="https://www.linkedin.com/in/henrique-gon%C3%A7alves-a63273142/"> </a>
+<hr>
+
 <!--
 **HenriqueGBritto/HenriqueGBritto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hr>
+
