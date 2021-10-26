@@ -1,6 +1,6 @@
 ### Hi there, Devs! It's me, Henrique!👋
 
-<a href="https://www.linkedin.com/in/henrique-gon%C3%A7alves-a63273142/"> </a>
+<a href="https://www.linkedin.com/in/henrique-britto-a63273142/"> </a>
 <hr>
 
 <!--
