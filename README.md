@@ -7,10 +7,10 @@
 #### I'm a IT Student and a Front-End Developer in progress.
 
 - :rocket: I'm currently studying **Javascript** and mastering my skills;
-
+<div align="center"> 
 ![HenriqueGBritto stats](https://github-readme-stats.vercel.app/api?username=HenriqueGBritto&show_icons=true&theme=radical)
-
-
+[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGBritto&layout=compact)](https://github.com/HenriqueGBritto/github-readme-stats)
+</div>
 
 
 
