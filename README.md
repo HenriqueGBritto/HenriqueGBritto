@@ -4,6 +4,15 @@
 
 ----
 
+#### I'm a IT Student and a Front-End Developer in progress.
+
+- :rocket: I'm currently studying **Javascript** and mastering my skills;
+
+![HenriqueGBritto stats](https://github-readme-stats.vercel.app/api?username=HenriqueGBritto&show_icons=true&theme=radical)
+
+
+
+
 
 <!--
 **HenriqueGBritto/HenriqueGBritto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
