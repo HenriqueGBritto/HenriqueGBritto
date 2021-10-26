@@ -12,9 +12,10 @@
 - 
 <br>
 
+<p>
 <img src = "https://github-readme-stats.vercel.app/api?username=HenriqueGBritto&show_icons=true&theme=buefy&line_height=27">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGBritto&hide=html,css,shell&theme=buefy">
-
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGBritto&theme=buefy">
+</p>
 
 
 <!--
