@@ -9,7 +9,7 @@
 <br> 
 
 - :rocket: I'm currently studying **Javascript** and mastering my skills;
-- 
+
 <br>
 
 <p>
